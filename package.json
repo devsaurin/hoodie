@@ -42,7 +42,7 @@
     "semver": "^5.1.0",
     "strip-url-auth": "^1.0.1",
     "vision": "^4.1.0",
-    "yargs": "^4.7.0"
+    "yargs": "^5.0.0"
   },
   "devDependencies": {
     "coveralls": "^2.11.9",
